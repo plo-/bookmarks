@@ -329,7 +329,6 @@
 <a name="web-tools" />
 ## Tools
  * [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
- * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
 
 
 <a name="network" />
@@ -387,12 +386,10 @@
 ## Reverse Engineering
  * [Reversing.kr](http://www.reversing.kr/) - This site tests your ability to Cracking & Reverse Code Engineering
  * [CodeEngn](http://codeengn.com/challenges/) - (Korean)
- * [simples.kr](http://simples.kr/) - (Korean)
 
 <a name="wargame-web" />
 ## Web
  * [Hack This Site!](https://www.hackthissite.org/) - a free, safe and legal training ground for hackers to test and expand their hacking skills
- * [Webhacking.kr](http://webhacking.kr/)
  * [0xf.at](https://0xf.at/) - a website without logins or ads where you can solve password-riddles (so called hackits).
 
 
